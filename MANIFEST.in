@@ -1,0 +1,3 @@
+include jep-numpy/jep-4.2.2.jar
+include jep-numpy/jep.cpython-310-x86_64-linux-gnu.so
+include jep-numpy/libjep.so
