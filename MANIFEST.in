@@ -1,3 +1,8 @@
 include jep/jep-4.2.2.jar
 include jep/jep.cpython-310-x86_64-linux-gnu.so
 include jep/libjep.so
+include jep/jep.cp310-win_amd64.dll
+include jep/jep.cp310-win_amd64.exp
+include jep/jep.cp310-win_amd64.lib
+include jep/jep.cp310-win_amd64.pyd
+include jep/jep.dll
